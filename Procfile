@@ -1,0 +1,1 @@
+web: gunicorn phils-django-blog.wsgi
