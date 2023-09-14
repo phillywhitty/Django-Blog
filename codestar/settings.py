@@ -31,7 +31,7 @@ SECRET_KEY = 'phils_key1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-phillywhitty-djangoblog-ef5kjr0qwry.ws-eu104.gitpod.io']
+ALLOWED_HOSTS = ['phils-django-blog.herokuapp.com', 'localhost']
 
 
 # Application definition
