@@ -31,7 +31,7 @@ SECRET_KEY = 'phils_key1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['phils-django-blog.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['phils-django-blog-815a56aa9fbf.herokuapp.com', 'localhost']
 
 
 # Application definition
